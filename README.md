@@ -1,4 +1,4 @@
-<h3 align="center">👩🏼‍💻Hello World!</h3>
+<h3 align="left">👩🏼‍💻Hello World!</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">🎓 Computer Science student: @IESB<br>🎓 Social Sciences student: @UNB<br>💻 Focused in Cybersecurity<br>✨ Goals: To think and develop technology with a more sociological and humanistic perspective.</h6>
+<p align="left">🎓 Computer Science student: @IESB<br>🎓 Social Sciences student: @UNB<br>💻 Focused in Cybersecurity<br>✨ Goals: To think and develop technology with a more sociological and humanistic perspective.</p>
 
 ###
 
@@ -44,22 +44,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
 </div>
 
 ###
